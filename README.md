@@ -1,6 +1,6 @@
 # simple_interest_calculator
 
-A new Flutter project.
+A simple app that calculates simple interest on input of principal, rate of interest and term in various currencies such as rupees, dollars or pounds.
 
 ## Getting Started
 
