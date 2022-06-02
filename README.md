@@ -2,6 +2,8 @@
 
 A simple app that calculates simple interest on input of principal, rate of interest and term in various currencies such as rupees, dollars or pounds.
 
+https://github.com/janvist/Simple-Interest-Calculator/issues/3#issue-1257963475
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
