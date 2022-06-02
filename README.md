@@ -2,7 +2,11 @@
 
 A simple app that calculates simple interest on input of principal, rate of interest and term in various currencies such as rupees, dollars or pounds.
 
-https://github.com/janvist/Simple-Interest-Calculator/issues/3#issue-1257963475
+![image](https://user-images.githubusercontent.com/78085381/171606148-ff6a97f8-6e97-40b5-b84b-94410f212e32.png)
+
+![image](https://user-images.githubusercontent.com/78085381/171606185-35c5aa74-51c4-4035-8254-c3b4a4714172.png)
+
+![image](https://user-images.githubusercontent.com/78085381/171605995-63d05389-87ed-43cb-8734-c0a86bf96a8a.png)
 
 ## Getting Started
 
